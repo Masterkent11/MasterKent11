@@ -24,3 +24,10 @@
 <a href="https://instagram.com/ikent.io" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rishav_chanda" height="30" width="40" /></a>
 <a href="" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="rishav chanda" height="30" width="40" /></a>
 </p>
+<br>
+<br>
+
+
+
+   ![Kent Ashley Clementir](https://github-readme-stats.vercel.app/api?username=MasterKent11&show_icons=true&theme=transparent)
+
